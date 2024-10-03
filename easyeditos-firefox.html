@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Installer Easy Editos</title>
+</head>
+<body>
+  <h1>Installer Easy Editos sur Firefox</h1>
+  <p>Cliquez sur le lien ci-dessous pour installer l'extension :</p>
+  <button onclick="installExtension()">Installer l'extension</button>
+
+  <script>
+    function installExtension() {
+      InstallTrigger.install({
+        "Easy Editos": "https://nino-fr.github.io/easyeditos/easy_editos-2.1.3.xpi"
+      });
+    }
+  </script>
+</body>
+</html>

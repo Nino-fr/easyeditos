@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "easy-editos": {
+      "updates": [
+        {
+          "version": "2.1.3",
+          "update_link": "https://your-update-url.com/your-extension-1.1.xpi"
+        }
+      ]
+    }
+  }
+}

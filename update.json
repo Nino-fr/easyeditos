@@ -3,6 +3,14 @@
     "easy-editos": {
       "updates": [
         {
+          "version": "2.1.6",
+          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.1.6.xpi"
+        },
+        {
+          "version": "2.1.7",
+          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.1.7.xpi"
+        },
+        {
           "version": "2.1.8",
           "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.1.8.xpi"
         }

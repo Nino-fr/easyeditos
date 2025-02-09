@@ -21,6 +21,10 @@
         {
           "version": "2.2.0",
           "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.2.0.xpi"
+        },
+        {
+          "version": "2.3.1",
+          "update_link": "https://nino-fr.github.io/easyeditos/easyeditos-2.3.1.xpi"
         }
       ]
     }

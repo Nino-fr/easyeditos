@@ -1,4 +1,4 @@
-# easy-editos
+# Easy Editos
 L'extension Chrome **_Easy Editos_** permet à l'utilisateur qui double-clique sur un mot dans un article du journal _Le Monde_ d'afficher ses définitions.
 Les définitions sont tirées du *TLFi*, du *Littré*, du *Wiktionnaire*, et de *le-dictionnaire.com*.
 Les techniques utilisées sont le web scraping, la lemmatisation, les expressions régulières et le proxy.
